@@ -14,9 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asinugit&show_icons=true&locale=en&layout=compact" alt="asinugit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asinugit&show_icons=true&locale=en" alt="asinugit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asinugit&" alt="asinugit" /></p>
 
 
 <!--
